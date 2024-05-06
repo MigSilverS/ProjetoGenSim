@@ -23,4 +23,12 @@
     <img src="Fonte.PNG">
   </h3>
   <p>A fonte utilizada foi Roboto com o tamanho entre 10-40.</p>
+
+  <h3 align="center">
+    Ícones
+    <br/>
+    <br/>
+    <img src="Icones.PNG">
+  </h3>
+  <p>Os ícones utilizados no projeto foram tirados do site Boxicos e Google Icons: <br/> https://boxicons.com/?query= <br/> https://fonts.google.com/icons</p>
 </div>
