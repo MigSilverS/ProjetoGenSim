@@ -9,8 +9,10 @@
 
   <h3 align="center">
     Paleta de Cores
-  </h3>
   <br/>
   <br/>
   <img src="Paleta.PNG">
+  </h3>
+  <br/>
+  <p>A coloração focada no azul se dá por conta da transmissão de seu significado, o azul transmite segurança, confiança e tranquilidade, tais sentimentos ou emoções são algo muito necessário para ter um bom desempenho nos vestibulares, por tal motivo utilizei dessas cores.</p>
 </div>
