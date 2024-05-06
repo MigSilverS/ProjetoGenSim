@@ -15,4 +15,12 @@
   </h3>
   <br/>
   <p>A coloração focada no azul se dá por conta da transmissão de seu significado, o azul transmite segurança, confiança e tranquilidade, tais sentimentos ou emoções são algo muito necessário para ter um bom desempenho nos vestibulares, por tal motivo utilizei dessas cores.</p>
+
+  <h3 align="center">
+    Fontes
+    <br/>
+    <br/>
+    <img src="">
+  </h3>
+  <p>A fonte utilizada foi Roboto com o tamanho entre 10-40.</p>
 </div>
