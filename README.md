@@ -31,4 +31,14 @@
     <img src="Icones.PNG">
   </h3>
   <p>Os ícones utilizados no projeto foram tirados do site Boxicos e Google Icons: <br/> https://boxicons.com/?query= <br/> https://fonts.google.com/icons</p>
+
+  
+
+   <h3 align="center">
+    Link do Projeto
+    <br/>
+    <br/>
+  </h3>
+  <p>https://www.figma.com/file/a2OZdY4RPOVizpBp36kBQn/GenSim?type=design&node-id=0%3A1&mode=design&t=HYgPycuShfGJeZ75-1</p>
+
 </div>
